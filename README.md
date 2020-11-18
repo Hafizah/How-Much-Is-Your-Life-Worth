@@ -27,12 +27,12 @@ Step | Detail
 1 | 
 
 ## What you need to deploy
-Procfile
-requirements.txt
-scaler_value.pkl
-setup.sh
-Life_Insurance_Model.pkl
-streamlitpredictinsurancecharges.py
+Procfile /n
+requirements.txt /n
+scaler_value.pkl /n
+setup.sh /n
+Life_Insurance_Model.pkl /n
+streamlitpredictinsurancecharges.py /n
 
 
 ## View of Web App Front page

@@ -2,7 +2,7 @@
 
 ## Problem Statement
 
-An insurance company wants to improve its cash flow forecasting by better predicting the life insurance premium using demographic and basic customer health risk 
+An insurance company wants to improve its cash flow forecasting by better predicting the annual life insurance premium using demographic and basic customer health risk 
 metrics at the time of application.
 
 ## Objective
@@ -21,9 +21,14 @@ Variable | Description
 **Charges** | Life insurance premium based on the data given (target variable)
 
 ## Methodology
-Step | Description
----- | ------
-1 | 
+- Performed exploratory data analysis
+- Used feature selection 
+- Built accurate model
+- Designed frontend of webpage with Streamlit
+- Deploy model on Heroku
+
+## Result 
+Random Forest Regression model with accuracy of 0.854
 
 ## What you need to deploy
 File | Description
@@ -35,5 +40,9 @@ setup.sh | Set up the platform project directory
 Life_Insurance_Model.pkl | Serialized model 
 streamlitpredictinsurancecharges.py | Frontend codes
 
-## View of Web App Front page
+## Web App front page visual
 ![Front page](https://github.com/Hafizah/Life-Insurance-Premium-Random-Forest-Model/blob/main/App%20front%20page.png)
+
+## Conclusion
+
+A simple random forest regression model can be used to create a machine learning model that can then be deployed for business purposes.

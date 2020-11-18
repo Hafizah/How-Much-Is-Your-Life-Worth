@@ -19,3 +19,11 @@ Variable | Description
 **Smoker** | Smoking habits
 **Region** | Northeast, Southeast, Southwest, Northwest
 **Charges** | Life insurance premium based on the data given (target variable)
+
+## Methodology
+
+Step | Detail
+---- | ------
+1 | 
+
+![Banner](https://github.com/Hafizah/Life-Insurance-Premium-Random-Forest-Model/blob/main/App%20front%20page.png)

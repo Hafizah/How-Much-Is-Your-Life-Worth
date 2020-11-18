@@ -1,15 +1,15 @@
-[]https://github.com/Hafizah/Life-Insurance-Premium-Random-Forest-Model/blob/main/2.png
+![Banner](https://github.com/Hafizah/Life-Insurance-Premium-Random-Forest-Model/blob/main/2.png)
 
-**Business Problem**
+## Problem Statement
 
 An insurance company wants to improve its cash flow forecasting by better predicting the life insurance premium using demographic and basic customer health risk 
 metrics at the time of application.
 
-**Objective**
+## Objective
 
 Build a machine learning model that can predict the premium for a life insurance based on customer's basic information.
 
-**Dataset Description**
+## Dataset Description
 
 **Age** : age of applicant (primary beneficiary)
 

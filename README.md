@@ -10,7 +10,7 @@ metrics at the time of application.
 Build a machine learning model that can predict the premium for a life insurance based on customer's basic information.
 
 ## Dataset 
-Feature | Description
+Variable | Description
 ---- | -------
 **Age** | Age of applicant (primary beneficiary)
 **Sex** | Gender of applicant (female, male)

@@ -1,4 +1,4 @@
-# Life Insurance Premium Quotes - Random Forest Model deployed using StreamLit
+[]https://github.com/Hafizah/Life-Insurance-Premium-Random-Forest-Model/blob/main/2.png
 
 **Business Problem**
 

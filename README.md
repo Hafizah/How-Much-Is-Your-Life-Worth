@@ -14,7 +14,7 @@ Feature | Description
 ---- | -------
 **Age** | Age of applicant (primary beneficiary)
 **Sex** | Gender of applicant (female, male)
-**BMI** | An applicant’s weight in kilograms divided by the square of height in meters. A high BMI can be an indicator of high body fatness
+**BMI** | An applicant’s weight in kilograms divided by the square of height in meters
 **Children** | Number of children or dependents
 **Smoker** | Smoking habits
 **Region** | Northeast, Southeast, Southwest, Northwest

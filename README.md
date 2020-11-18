@@ -21,18 +21,19 @@ Variable | Description
 **Charges** | Life insurance premium based on the data given (target variable)
 
 ## Methodology
-
-Step | Detail
+Step | Description
 ---- | ------
 1 | 
 
 ## What you need to deploy
-Procfile \n
-requirements.txt \n
-scaler_value.pkl \n
-setup.sh \n
-Life_Insurance_Model.pkl \n
-streamlitpredictinsurancecharges.py \n
+File | Description
+---- | ------
+Procfile | State what commands are to be run on start up
+requirements.txt | Python package dependencies needed on Heroku
+scaler_value.pkl | Saved data preparation objects
+setup.sh | Set up the platform project directory
+Life_Insurance_Model.pkl | Serialized model 
+streamlitpredictinsurancecharges.py | Frontend codes
 
 ## View of Web App Front page
 ![Banner](https://github.com/Hafizah/Life-Insurance-Premium-Random-Forest-Model/blob/main/App%20front%20page.png)

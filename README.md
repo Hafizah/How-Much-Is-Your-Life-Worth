@@ -36,6 +36,4 @@ Life_Insurance_Model.pkl | Serialized model
 streamlitpredictinsurancecharges.py | Frontend codes
 
 ## View of Web App Front page
-<p align="center">
-  <img width="400" height="600" src="https://github.com/Hafizah/Life-Insurance-Premium-Random-Forest-Model/blob/main/Front%20page.png">
-</p>
+![Front page](https://github.com/Hafizah/Life-Insurance-Premium-Random-Forest-Model/blob/main/App%20front%20page.png)

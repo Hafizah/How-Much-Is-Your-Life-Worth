@@ -26,4 +26,14 @@ Step | Detail
 ---- | ------
 1 | 
 
+## What you need to deploy
+Procfile
+requirements.txt
+scaler_value.pkl
+setup.sh
+Life_Insurance_Model.pkl
+streamlitpredictinsurancecharges.py
+
+
+## View of Web App Front page
 ![Banner](https://github.com/Hafizah/Life-Insurance-Premium-Random-Forest-Model/blob/main/App%20front%20page.png)

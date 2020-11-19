@@ -28,7 +28,7 @@ Variable | Description
 - Deploy model on Heroku
 
 ## Result 
-Random Forest Regression model with accuracy of 0.854
+Random Forest Regression model with accuracy of 85.4%
 
 ## What you need to deploy
 File | Description
